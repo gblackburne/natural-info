@@ -28,6 +28,29 @@ Data for the project is openly available from:
 - [Naturalistic Neuroimaging Database](https://openneuro.org/datasets/ds002837) (OpenNeuro ds002837).
 - [Naturalistic Neuroimaging Database 3T+](https://openneuro.org/datasets/ds006642) (OpenNeuro ds006642).
 
+## Citation
+
+If you use this code in your research, please cite:
+
+```bibtex
+@article{blackburne2026natural,
+  title         = {The information architecture of the naturalistic human brain},
+  author        = {Blackburne, George and Liardi, Alberto and Bacalum, Andreea and
+                   Levchenko, Egor and Cooper, Greg and Dick, Fred and
+                   Luppi, Andrea I. and Skipper, Jeremy I. and Mediano, Pedro A. M.},
+  journal       = {bioRxiv},
+  year          = {2026},
+  doi           = {10.64898/2026.11.18.767548}
+}
+
+@article{liardi2026information,
+  title         = {An information-geometric formulation of distributed computation},
+  author        = {Liardi, Alberto and Blackburne, George and Mediano, Pedro A. M.},
+  journal       = {arXiv preprint arXiv:2611.03545},
+  year          = {2026},
+  doi           = {10.48550/arXiv.2611.03545}
+}
+```
 
 ## License
 > This software is distributed under the modified 3-clause BSD Licence.
